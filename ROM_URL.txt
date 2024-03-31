@@ -1,1 +1,1 @@
-https://cdn-ota.azureedge.net/V14.0.6.0.TKLINXM/rosemary_in_global_images_V14.0.6.0.TKLINXM_20231122.0000.00_13.0_in_03e5eae0d6.tgz
+https://cdnorg.d.miui.com/V14.0.9.0.TKLINXM/rosemary_in_global_images_V14.0.9.0.TKLINXM_20240308.0000.00_13.0_in_c2bc7d3fd2.tgz
